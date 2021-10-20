@@ -20,7 +20,7 @@ msgstr ""
 
 #: applet.js:124 3.2/applet.js:164
 msgid "Some Dependencies not Installed"
-msgstr ""
+msgstr "Certaines dépendances ne sont pas installées"
 
 #: applet.js:124
 msgid ""
@@ -28,11 +28,12 @@ msgid ""
 "facilities including notifications and audible alerts .\n"
 "\n"
 "Please read the help file on how to install them."
-msgstr ""
+msgstr ""sox" et "zenity" sont requis pour cet applet pour avoir toutes ses dépendances, notifications et alertes sonores incluses"
+"Veuillez lire le fichier d'aide pour savoir comment les installer"
 
 #: applet.js:132 3.2/applet.js:197
 msgid "Battery Monitor Applet"
-msgstr ""
+msgstr "Applet de Moniteur de batterie"
 
 #: applet.js:132
 msgid ""
@@ -48,7 +49,7 @@ msgstr ""
 
 #: applet.js:350 3.2/applet.js:435
 msgid "Battery Monitor Applet Alert"
-msgstr ""
+msgstr "Applet d'alerte du moniteur de batterie"
 
 #: applet.js:350 3.2/applet.js:435
 msgid ""
@@ -127,7 +128,8 @@ msgstr ""
 msgid ""
 "Please ensure the volume is set sensibly in public places especially if a "
 "long loud file is specifed"
-msgstr ""
+msgstr "Assurez-vous que le volume est bien réglé dans les lieux publics,"
+"spécialement si vous spécifiez un "long fichier fort"
 
 #. 3.2->settings-schema.json->batteryShutdownSound->description
 msgid "Choose sound file to use when Battery is at Shutdown Level"
@@ -142,12 +144,12 @@ msgstr ""
 #. 3.2->settings-schema.json->notifyBatteryLowSound->description
 msgid ""
 "Provide Notification when user specified sound file is in use - Recommended"
-msgstr ""
+msgstr "Fournit une notification quand le fichier son spécifié par l'utilisateur est utilisé - Recommandé"
 
 #. 3.2->settings-schema.json->notifyBatteryLowSound->tooltip
 msgid ""
 "To remind users that the volume may need to be set sensibly in public places"
-msgstr ""
+msgstr "Pour rappeler aux utilisateurs que le volume peut nécessiter d'être ajusté dans les lieux publics"
 
 #. 3.2->settings-schema.json->head3->description
 msgid "Household Tasks"
@@ -155,10 +157,11 @@ msgstr ""
 
 #. 3.2->settings-schema.json->deleteTempraryFiles->description
 msgid "Delete temporary files after upgrade to version 1.4"
-msgstr ""
+msgstr "Efface les fichiers temporaires après la mise à jour vers la version 1.4 effectuée"
 
 #. 3.2->settings-schema.json->deleteTempraryFiles->tooltip
 msgid ""
 "Versions prior to 1.4 used temporary files in the home directory. These are "
 "not needed any more and can be deleted."
-msgstr ""
+msgstr "Les versions antérieures à la 1.4 utilisaient des fichiers temporaires"
+"dans le dossier personnel. Ils ne sont plus nécessaires et peuvent être supprimés"
