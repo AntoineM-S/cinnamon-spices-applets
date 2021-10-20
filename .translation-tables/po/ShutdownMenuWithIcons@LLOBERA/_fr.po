@@ -20,9 +20,9 @@ msgstr ""
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->switch_users_cmd->description
 msgid "The switch users command"
-msgstr ""
+msgstr "La commande de changement d'utilisateur"
 
 #. ShutdownMenuWithIcons@LLOBERA->settings-
 #. schema.json->switch_users_icon->description
 msgid "The switch users icon"
-msgstr ""
+msgstr "L'icône de changement d'utilisateur"
