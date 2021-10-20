@@ -15,8 +15,8 @@ msgstr ""
 
 #. metadata.json->name
 msgid "PDFManager"
-msgstr ""
+msgstr "PDF Manager"
 
 #. metadata.json->description
 msgid "A handy applet for manipulating PDF"
-msgstr ""
+msgstr "Une applet pratique pour manipuler des fichiers PDF"
